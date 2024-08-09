@@ -1,8 +1,5 @@
-## _bom dia_
-
-
-
-1[](https://media1.tenor.com/m/P7J5brblGHAAAAAC/squidward-ugliness.gif)
+## _ hojemaniun_
+![](https://media1.tenor.com/m/P7J5brblGHAAAAAC/squidward-ugliness.gif)
 
 <!--
 **ben1020-boop/ben1020-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
